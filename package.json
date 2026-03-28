@@ -1,7 +1,5 @@
 {
   "name": "prompt-prison",
   "version": "1.0.0",
-  "dependencies": {
-    "node-fetch": "^3.3.2"
-  }
+  "type": "module"
 }
